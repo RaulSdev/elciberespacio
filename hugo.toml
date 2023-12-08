@@ -12,6 +12,8 @@ theme = "FeelIt"
   # FeelIt theme version
   version = "1.0.X"
 
+[params.home.posts]
+  imagePreview = true
 [menu]
   [[menu.main]]
     identifier = "posts"
