@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Etiqueta - El Ciber Espacio</title>
+        <link>http://example.org/tags/</link>
+        <description>Tags - Etiqueta - El Ciber Espacio</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 08 Dec 2023 01:36:48 &#43;0000</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>android</title>
+    <link>http://example.org/tags/android/</link>
+    <pubDate>Fri, 08 Dec 2023 01:36:48 &#43;0000</pubDate><guid>http://example.org/tags/android/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>spotify</title>
+    <link>http://example.org/tags/spotify/</link>
+    <pubDate>Fri, 08 Dec 2023 01:36:48 &#43;0000</pubDate><guid>http://example.org/tags/spotify/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>youtube</title>
+    <link>http://example.org/tags/youtube/</link>
+    <pubDate>Fri, 08 Dec 2023 01:36:48 &#43;0000</pubDate><guid>http://example.org/tags/youtube/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
